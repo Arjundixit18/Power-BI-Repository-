@@ -1,7 +1,6 @@
 # 🚀 Power BI Repository by [ArjunDixit18](https://github.com/ArjunDixit18)
 
 
-
 ![Power BI Banner](https://github.com/ArjunDixit18/Power-BI-Repository/assets/banner.png)
 
 Welcome to the **Power BI Universe** – a complete guide to mastering **data visualization**, **dashboard building**, and **insight generation** with Microsoft Power BI! 🎯
